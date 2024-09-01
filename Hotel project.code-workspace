@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"name": "Hotel project",
+			"path": ".."
+		},
+		{
+			"name": "newcourse",
+			"path": "../../CAT/newcourse"
+		},
+		{
+			"name": "javascript",
+			"path": "../../javascript"
+		},
+		{
+			"path": "../../CAT/JAVA DSA"
+		},
+		{
+			"path": "../../delete"
+		},
+		{
+			"path": "../../CAT/Portfolio"
+		},
+		{
+			"path": "../../three"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "newcourse"
+	}
+}
